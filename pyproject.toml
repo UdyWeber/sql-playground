@@ -1,0 +1,8 @@
+[project]
+name = "sql-playground"
+version = "0.1.0"
+author = ["Jaw :D"]
+description = "Simple SQL playground to help students"
+readme = "README.md"
+requires-python = ">=3.13.0"
+dependencies = []
