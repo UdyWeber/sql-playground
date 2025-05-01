@@ -18,7 +18,7 @@ Database tables are: `Employee`, `Dependents`, `Department`. Those are the most 
 Python version must be 3.13.0 or greater.
 
 ## Docker
-No docker for now buddy, haven't learned about containers yet, might add it later btw.
+No docker for now buddy, beginners haven't learned about containers yet, might add it later btw.
 
 ## How to run
 It must as simple as typing the command bellow (assuming you are on the root of the directory), that should trigger the database creation + initial dataload. A `test.db` will be created at the root of the project, that will be your database.
